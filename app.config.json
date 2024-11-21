@@ -43,7 +43,13 @@
       "FIREBASE_STORAGE_BUCKET": "agendamento-2ee56.appspot.com",
       "FIREBASE_MESSAGING_SENDER_ID": "1038770177663",
       "FIREBASE_APP_ID": "1:1038770177663:web:92f59f309d23279a41e14a",
-      "FIREBASE_MEASUREMENT_ID": "G-D8EZXW1KTV"
+      "FIREBASE_MEASUREMENT_ID": "G-D8EZXW1KTV",
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "ca625189-c40e-4769-b582-758235d7d3a3"
+      }
     }
   }
 }
