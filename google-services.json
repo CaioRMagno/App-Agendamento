@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1038770177663",
+    "project_id": "agendamento-2ee56",
+    "storage_bucket": "agendamento-2ee56.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038770177663:android:40de554f4a1fd8a541e14a",
+        "android_client_info": {
+          "package_name": "com.caiormagno.agendamentoej"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK7TLKCBXD1h5Z7eH4zAII2rwyoitNcxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
