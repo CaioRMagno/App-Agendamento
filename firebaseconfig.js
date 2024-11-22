@@ -2,16 +2,17 @@ import { initializeApp } from 'firebase/app';
 import { getAuth } from 'firebase/auth';
 import { getFirestore } from 'firebase/firestore';
 import Constants from 'expo-constants';
+import Config from 'react-native-config';
 
 // Configuração do Firebase usando variáveis de ambiente
 const firebaseConfig = {
-  apiKey: Constants.manifest.extra.FIREBASE_API_KEY,
-  authDomain: Constants.manifest.extra.FIREBASE_AUTH_DOMAIN,
-  projectId: Constants.manifest.extra.FIREBASE_PROJECT_ID,
-  storageBucket: Constants.manifest.extra.FIREBASE_STORAGE_BUCKET,
-  messagingSenderId: Constants.manifest.extra.FIREBASE_MESSAGING_SENDER_ID,
-  appId: Constants.manifest.extra.FIREBASE_APP_ID,
-  measurementId: Constants.manifest.extra.FIREBASE_MEASUREMENT_ID,
+  apiKey: "AIzaSyDS5hBUXYI4nw55qT-FqEUvZAqdLyXtaRM",
+  authDomain: "agendamento-2ee56.firebaseapp.com",
+  projectId: "agendamento-2ee56",
+  storageBucket: "agendamento-2ee56.appspot.com",
+  messagingSenderId: "1038770177663",
+  appId: "1:1038770177663:web:92f59f309d23279a41e14a",
+  measurementId: "G-D8EZXW1KTV",
 };
 
 // Inicializa o Firebase
